@@ -14,9 +14,8 @@ def add_element_to_start_of_array(array, element)
   array.unshift(element)
 end
 
-def pieces_of_array_remove_back
-  pieces_of_array_remove_back = ["variables", "array", "element", "string"]
-  string = pieces_of_array_remove_back.pop
+def remove_element_from_end_of_array(array)
+  array.pop
 end
 
 def pieces_of_array_remove_front
