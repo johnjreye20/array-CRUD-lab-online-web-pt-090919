@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array
   ["array", "element"]
-  pieces_of_array << "string"
+  add_element_to_end_of_array << "string"
 end
 
 def pieces_of_array_start
