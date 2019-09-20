@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def sports
-  sports = ["Baseball", "Basketball", "Football", "Hockey"]
+def array(array)
+  array = ["Baseball", "Basketball", "Football", "Hockey"]
 end
 
 def pieces_of_array
