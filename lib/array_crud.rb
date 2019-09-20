@@ -2,8 +2,8 @@ def create_an_empty_array
   []
 end
 
-def array(array)
-  array = ["element 1", "element 2", "element 3", "element 4"]
+def array
+  ["element 1", "element 2", "element 3", "element 4"]
 end
 
 def pieces_of_array
