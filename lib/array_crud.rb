@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def pieces_of_array
-  pieces_of_array = ["array", "element"]
+  ["array", "element"]
   pieces_of_array << "string"
 end
 
