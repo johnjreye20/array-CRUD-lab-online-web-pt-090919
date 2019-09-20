@@ -10,9 +10,8 @@ def add_element_to_end_of_array(array, element)
   array << element
 end
 
-def pieces_of_array_start
-  pieces_of_array_start = ["array", "element", "string"]
-  pieces_of_array_start.unshift("variables")
+def add_element_to_start_of_array(array, element)
+  array.unshift(element)
 end
 
 def pieces_of_array_remove_back
